@@ -39,7 +39,7 @@ With a background in Information Technology and Cloud Computing, I'm eager to co
 
 To view the portfolio:
 
-1.  Clone this repository: `git clone [repository_url]`
+1.  Clone this repository: `https://github.com/l1Nus-M/MyPortfolio.git`
 2.  Open the `index.html` file in your web browser.
 
 ## Contact
